@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\bin\Debug\CSATSkin.WPFTests.dll
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\bin\Debug\CSATSkin.WPFTests.pdb
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\bin\Debug\CSATSkin.WPF.dll
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\bin\Debug\CSATSkin.WPF.pdb
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\obj\Debug\CSATSkin.WPFTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\obj\Debug\CSATSkin.WPFTests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\obj\Debug\CSATSkin.WPFTests.dll
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPFTests\obj\Debug\CSATSkin.WPFTests.pdb

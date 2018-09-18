@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\CSATSkin.WPF.Demos.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\StartWindow.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\Views\PageAbout.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\Views\PageAnimation.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\Views\Window\SimpleWindow.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\Views\Window\ComplexWindow.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\CSATSkin.WPF.Demos_MarkupCompile.cache
+C:\Users\Administrator\Desktop\DMSkin-for-WPF-master\DMSkin.WPF.Demos\obj\Debug\CSATSkin.WPF.Demos_MarkupCompile.lref

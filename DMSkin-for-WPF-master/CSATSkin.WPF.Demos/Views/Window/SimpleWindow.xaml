@@ -1,0 +1,58 @@
+﻿<CSATSkin:CSATSkinSimpleWindow
+    x:Class="CSATSkin.WPF.Demos.SimpleWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:CSATSkin="clr-namespace:CSATSkin.WPF;assembly=CSATSkin.WPF"
+    xmlns:controls="clr-namespace:CSATSkin.WPF.Controls;assembly=CSATSkin.WPF"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewmodels="clr-namespace:CSAT_Studio.ViewModels"
+    Title="单层窗口"
+    Width="640"
+    Height="440"
+    MinWidth="400"
+    MinHeight="308"
+    Background="White"
+    CSATWindowShadowColor="#888888"
+    CSATWindowShadowSize="10"
+    Foreground="White"
+    Loaded="CSATSkinWindow_Loaded"
+    ResizeMode="CanResizeWithGrip"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <viewmodels:MainWindowViewModel />
+    </Window.DataContext>
+    <Window.InputBindings>
+        <KeyBinding Command="{Binding F1Command}" Gesture="F1" />
+    </Window.InputBindings>
+    <Grid>
+
+
+        <WrapPanel
+            Height="{Binding CSATSystemButtonSize}"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Orientation="Horizontal">
+            <controls:CSATSystemMinButton
+                CSATSystemButtonForeground="#383838"
+                CSATSystemButtonHoverForeground="#383838"
+                CSATSystemButtonSize="50" />
+            <controls:CSATSystemMaxButton
+                CSATSystemButtonForeground="#383838"
+                CSATSystemButtonHoverForeground="#FFFFFF"
+                CSATSystemButtonSize="50" />
+            <controls:CSATSystemCloseButton
+                CSATSystemButtonForeground="#383838"
+                CSATSystemButtonHoverForeground="#FFFFFF"
+                CSATSystemButtonSize="50" />
+        </WrapPanel>
+
+        <ResizeGrip
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            HorizontalContentAlignment="Stretch"
+            VerticalContentAlignment="Stretch"
+            Visibility="{Binding CSATVisibility}" />
+    </Grid>
+</CSATSkin:CSATSkinSimpleWindow>
